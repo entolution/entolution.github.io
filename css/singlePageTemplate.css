@@ -75,7 +75,7 @@ ul li:hover a {
 .hero {
 	background-image:url("/images/MC1_4108.png");
 	background-position: center center;
-	height: auto;
+	height: 600px;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -290,6 +290,13 @@ nav ul li {
 	margin-left: 0px;
 	width: 100%;
 	text-align: center;
+}
+.hero {
+	background-image:url("/images/MC1_4108-mobile-device.png");
+	background-position: center center;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .text_column {
 	width: 100%;
