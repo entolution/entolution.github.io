@@ -74,9 +74,10 @@ ul li:hover a {
 /* Hero Section */
 .hero {
 	background-image:url("/images/MC1_4108.jpg");
-	width: 100%;
 	height: 600px;
-	align-content: center
+	background-repeat: no-repeat;
+	background-size: cover;
+	align-content: center;
 }
 .light {
 	font-weight: bold;
